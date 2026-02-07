@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Build
+build/
+dist/
+*.spec
+
+# Logs
+logs/
+*.log
+
+# Backups
+*.sq
+
+# Installer
+installer/*.exe
+
+# OS
+.DS_Store
+Thumbs.db
