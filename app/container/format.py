@@ -1,0 +1,5 @@
+MAGIC = b"MurDB1"
+VERSION = 1
+
+NONCE_SIZE = 16
+TAG_SIZE = 16
